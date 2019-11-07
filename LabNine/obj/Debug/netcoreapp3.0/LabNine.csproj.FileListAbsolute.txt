@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.exe
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.deps.json
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.runtimeconfig.json
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.dll
+C:\Users\rzili\source\repos\LabNine\LabNine\bin\Debug\netcoreapp3.0\LabNine.pdb
+C:\Users\rzili\source\repos\LabNine\LabNine\obj\Debug\netcoreapp3.0\LabNine.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\LabNine\LabNine\obj\Debug\netcoreapp3.0\LabNine.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\LabNine\LabNine\obj\Debug\netcoreapp3.0\LabNine.AssemblyInfo.cs
+C:\Users\rzili\source\repos\LabNine\LabNine\obj\Debug\netcoreapp3.0\LabNine.dll
+C:\Users\rzili\source\repos\LabNine\LabNine\obj\Debug\netcoreapp3.0\LabNine.pdb
